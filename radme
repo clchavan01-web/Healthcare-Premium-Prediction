@@ -1,0 +1,5 @@
+project 1 : healthcare premium predictor
+learning type : supervised learning
+subcategory : regression
+algorithm used : linear regression
+goal: to predict continues numerical values
